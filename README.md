@@ -1,2 +1,2 @@
 # PageObject
-Example of OgaObject realisation by Stepik
+Example of PageObject realisation by Stepik
